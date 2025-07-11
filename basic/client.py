@@ -12,7 +12,7 @@ asyncio.run(call_tool("Ford"))   # Execute the order
 
 
 # ouput
-```
+"""
 >python client.py
 CallToolResult(content=[TextContent(type='text', text='Hello, Ford!', annotations=None, meta=None)], structured_content={'result': 'Hello, Ford!'}, data='Hello, Ford!', is_error=False)
-```
+"""
